@@ -11,5 +11,11 @@ git clone https://github.com/cute-0tter/cowrie-dl2dir/
 - colorama (pip install colorama)
 
 ## Usage
-python cowrie-dl2dir.py [date]
-ex. python cowrie-dl2dir.py 2019-04-01
+```
+python cowrie-dl2dir.py [date]  
+```
+
+ex.
+```
+python cowrie-dl2dir.py 2019-04-01
+```

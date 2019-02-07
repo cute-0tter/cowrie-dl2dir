@@ -8,7 +8,11 @@ git clone https://github.com/cute-0tter/cowrie-dl2dir/
 
 ## Requirements
 - Python3
-- colorama (pip install colorama)
+- colorama 
+
+```
+pip install colorama
+```
 
 ## Usage
 ```

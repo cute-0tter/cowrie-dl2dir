@@ -14,7 +14,7 @@ git clone https://github.com/cute-0tter/cowrie-dl2dir/
 
 ## Usage
 ```
-python cowrie-dl2dir.py [date]  
+python cowrie-dl2dir.py [date]
 ```
 
 ex.

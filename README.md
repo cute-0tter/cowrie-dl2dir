@@ -4,10 +4,13 @@
 You can move the files downloaded by [Cowrie](https://github.com/cowrie/cowrie) into the directory for each date.
 
 ## Installation
+```
 git clone https://github.com/cute-0tter/cowrie-dl2dir/
+```
 
 ## Requirements
 - Python3
+- Set the correct file path
 
 ## Usage
 ```
